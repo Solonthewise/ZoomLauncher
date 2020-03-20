@@ -19,7 +19,6 @@ class NSAclass(object):
         self.links = classLinks
         classlist.append(self)
     def getZoomLink(self):
-        print(len(self.days))
         for i in range(len(self.days)):
             if len(self.links) == 1:
                 linkSelector = 0
