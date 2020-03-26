@@ -37,7 +37,7 @@ class NSAclass(object):
 # = only 1 link needed if all links are the same
 Greek = NSAclass(['Mon','Wed','Fri'],[660,870,600], ['https://zoom.us/j/224236465?pwd=T1NibXZubFRCcVV4MmlqTXBGaUw0Zz09'])
 Math = NSAclass(['Wed','Fri'],[930,720],['https://zoom.us/j/884206080?pwd=ZTdqcFVqUnpLZFh5bHFCRjZKNE9mdz09'])
-Herpetology = NSAclass(['Mon','Thu'],[930,930],['https://zoom.us/j/586342576?pwd=STZZdE5ZNTdPOUxDZjJsa2t0WEpkQT09'])
+Herpetology = NSAclass(['Mon','Thu'],[930,930],['https://zoom.us/j/586342576?pwd=STZZdE5ZNTdPOUxDZjJsa2t0WEpkQT09', 'https://zoom.us/j/442920669?pwd=dFJDSjl2eW1jSFlsS1dWQkh2WXd5UT09'])
 PolEcon = NSAclass(['Mon','Wed','Thu'],[540,660,750],['https://zoom.us/j/6914342415'])
 Choir = NSAclass(['Mon','Wed','Fri'],[780,780,840],['https://zoom.us/j/442302046?pwd=NjdoWjVNb09SNkdjSmdpMDBSeHlpZz09','https://zoom.us/j/596281397?pwd=cG5zSGFEdHZqMTlaTXo5QUxhZ0t6UT09','https://zoom.us/j/437828022?pwd=eCttUk5UcWQ0cXFaWFlPR1BpUXJoZz09'])
 CompAndArrange = NSAclass(['Tue','Wed'],[780,540],['https://zoom.us/j/7442571164'])
